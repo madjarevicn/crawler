@@ -100,7 +100,7 @@ var rllArgs = {"script":"nivo_lightbox","selector":"lightbox","custom_events":""
 <script type='text/javascript' src='http://www.greenpeace.org/usa/wp-content/plugins/timelinejs-echo/js/timeline-3.3.13.js?ver=4.8.3'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var afp_vars = {"afp_nonce":"48b5759d94","afp_ajax_url":"http:\/\/www.greenpeace.org\/usa\/wp-admin\/admin-ajax.php"};
+var afp_vars = {"afp_nonce":"a22cb6a9fa","afp_ajax_url":"http:\/\/www.greenpeace.org\/usa\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='http://www.greenpeace.org/usa/wp-content/themes/greenpeace/js/ajax-filter-posts.js'></script>
@@ -1429,7 +1429,7 @@ var popmake_default_theme = "54143";
 
 <!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
-Object Caching 12644/13181 objects using disk
-Database Caching 47/112 queries in 0.094 seconds using disk
+Object Caching 12600/13124 objects using disk
+Database Caching 58/117 queries in 0.084 seconds using disk
 
- Served from: greenpeace.org @ 2017-11-08 05:59:14 by W3 Total Cache -->
+ Served from: greenpeace.org @ 2017-11-08 07:42:10 by W3 Total Cache -->

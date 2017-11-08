@@ -30,6 +30,7 @@ class Company:
     #primer upotrebe textwrap-a, narocito koristan kod ispisa u fajl
     def printAboutCompany(self):
         print '[ABOUT]:',(textwrap.fill(self.about,width=150))
+        print
         print '[HISTORY]: ',(textwrap.fill(self.history,width=150))
 
 

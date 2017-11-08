@@ -10,6 +10,7 @@ if  __name__ == '__main__':
         print "[2]Would you like to see our campaigns?"
         print "[3]Would you like to see list of our employees?"
         print "[4] Exit"
+        print
 
 
         #pravimo kompaniju i dodeljujemo joj crawl-ovane vrednosti
@@ -19,6 +20,7 @@ if  __name__ == '__main__':
         x=int(input('>>>'))
         if(x==1):
             company.printAboutCompany()
+            print
             print "[1] Back"
             print "[2] Exit"
             p=int(input('>>>'))
@@ -41,7 +43,7 @@ if  __name__ == '__main__':
             elif (p == 2):
                 continue
             elif (p == 1):
-                name = raw_input()
+                name = raw_input('>>>[Campaign name]: ')
                 if name in company.campaigns.keys():
                     #otvara u novi tab ako je moguce
                     new = 2
