@@ -1,0 +1,1435 @@
+  <!doctype html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+  <meta charset="UTF-8" />
+  <title>
+      Board Members
+    </title>
+
+  <!-- facebook meta tags -->
+  <meta property="og:url"           content="http://www.greenpeace.org/usa/about/board-members/" />
+  <meta property="og:title"         content="Board Members" />
+  <meta property="og:type"          content="article" />
+    <meta property="og:description"   content="Meet the board of directors for Greenpeace and Greenpeace Fund" />
+  <meta property="og:image"         content="" />
+  
+
+
+
+
+      <meta name="description"          content="Meet the board of directors for Greenpeace and Greenpeace Fund">
+    <!-- @font-face site fonts -->
+    <link rel="stylesheet" href="http://www.greenpeace.org/usa/wp-content/themes/greenpeace/fonts/stylesheet.css" type="text/css" media="screen" />
+    <!-- main custom css -->
+    <link rel="stylesheet" href="http://www.greenpeace.org/usa/wp-content/themes/greenpeace/style.css?v=20171106" type="text/css" media="screen" />
+  
+  <!-- Font Awesome fonticons css -->
+  <link rel="stylesheet" href="http://www.greenpeace.org/usa/wp-content/themes/greenpeace/fonts/fontAwesome/css/font-awesome.min.css" type="text/css" media="screen" />
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/png" href="http://www.greenpeace.org/usa/wp-content/themes/greenpeace/img/favicon.png" />
+
+
+  <!--[if lt IE 9]>
+  <script src="/js/html5shiv.js"></script>
+  <![endif]-->
+
+
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="pingback" href="http://www.greenpeace.org/usa/xmlrpc.php" />
+  
+<!-- This site is optimized with the Yoast SEO Premium plugin v3.0.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.greenpeace.org/usa/about/board-members/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Board Members" />
+<meta property="og:url" content="http://www.greenpeace.org/usa/about/board-members/" />
+<meta property="og:site_name" content="Greenpeace USA" />
+<meta property="article:publisher" content="http://www.facebook.com/greenpeaceusa" />
+<meta property="article:section" content="About Us" />
+<meta property="fb:admins" content="10153315776087638" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:title" content="Board Members"/>
+<meta name="twitter:site" content="@greenpeaceusa"/>
+<meta name="twitter:creator" content="@greenpeaceusa"/>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel='dns-prefetch' href='//www.greenpeace.org' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Greenpeace USA &raquo; Greenpeace Fund Board Member Bio Tag Feed" href="http://www.greenpeace.org/usa/bio-tags/gpusa-fund-board-member/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.greenpeace.org\/usa\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.greenpeace.org/usa/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='import-facebook-events-pro-front-css'  href='http://www.greenpeace.org/usa/wp-content/plugins/import-facebook-events-pro/assets/css/import-facebook-events.css?ver=4.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-lightbox-nivo_lightbox-css-css'  href='http://www.greenpeace.org/usa/wp-content/plugins/responsive-lightbox-lite/assets/nivo-lightbox/nivo-lightbox.css?ver=4.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-lightbox-nivo_lightbox-css-d-css'  href='http://www.greenpeace.org/usa/wp-content/plugins/responsive-lightbox-lite/assets/nivo-lightbox/themes/default/default.css?ver=4.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='timeline-stylesheet-css'  href='http://www.greenpeace.org/usa/wp-content/plugins/timelinejs-echo/css/timeline-3.3.13.css?ver=4.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='timeline-stylesheet-override-css'  href='http://www.greenpeace.org/usa/wp-content/plugins/timelinejs-echo/css/timeline-override.css?ver=4.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ye_dynamic-css'  href='http://www.greenpeace.org/usa/wp-content/plugins/youtube-embed/css/main.min.css?ver=4.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_custom_css-css'  href='//www.greenpeace.org/usa/wp-content/uploads/js_composer/custom.css?ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='popup-maker-site-css'  href='http://www.greenpeace.org/usa/wp-content/plugins/popup-maker/assets/css/popup-maker-site.min.css?ver=1.3.9' type='text/css' media='all' />
+<link rel='stylesheet' id='A2A_SHARE_SAVE-css'  href='http://www.greenpeace.org/usa/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.14' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.greenpeace.org/usa/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.greenpeace.org/usa/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.greenpeace.org/usa/wp-content/themes/greenpeace/js/vendorjs/what-input.min.js?ver=4.1.3'></script>
+<script type='text/javascript' src='http://www.greenpeace.org/usa/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.greenpeace.org/usa/wp-content/plugins/responsive-lightbox-lite/assets/nivo-lightbox/nivo-lightbox.min.js?ver=4.8.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var rllArgs = {"script":"nivo_lightbox","selector":"lightbox","custom_events":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.greenpeace.org/usa/wp-content/plugins/responsive-lightbox-lite/assets/inc/script.js?ver=4.8.3'></script>
+<script type='text/javascript' src='http://www.greenpeace.org/usa/wp-content/plugins/timelinejs-echo/js/timeline-3.3.13.js?ver=4.8.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var afp_vars = {"afp_nonce":"48b5759d94","afp_ajax_url":"http:\/\/www.greenpeace.org\/usa\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.greenpeace.org/usa/wp-content/themes/greenpeace/js/ajax-filter-posts.js'></script>
+<link rel='https://api.w.org/' href='http://www.greenpeace.org/usa/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.greenpeace.org/usa/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.greenpeace.org/usa/wp-includes/wlwmanifest.xml" /> 
+
+<script type="text/javascript">
+var a2a_config=a2a_config||{};a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.templates=a2a_config.templates||{};
+</script>
+<script type="text/javascript" src="https://static.addtoany.com/menu/page.js" async="async"></script>
+
+<!--BEGIN: TRACKING CODE MANAGER BY INTELLYWP.COM IN HEAD//-->
+<meta property="fb:pages" content="5435784683" />
+<!--END: https://wordpress.org/plugins/tracking-code-manager IN HEAD//--><style id="popup-maker-themes"  type="text/css">/* Popup Theme 54143: Default Theme */
+.popmake-overlay.theme-54143, .popmake-overlay.theme-default-theme-2 { background-color: rgba( 255, 255, 255, 1 ) } 
+.popmake.theme-54143, .popmake.theme-default-theme-2 { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 249, 249, 249, 1 ) } 
+.popmake.theme-54143 .popmake-title, .popmake.theme-default-theme-2 .popmake-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: inherit; font-size: 32px; font-style: normal; line-height: 36px } 
+.popmake.theme-54143 .popmake-content, .popmake.theme-default-theme-2 .popmake-content { color: #8c8c8c; font-family: inherit; font-weight: inherit; font-style: normal } 
+.popmake.theme-54143 > .popmake-close, .popmake.theme-default-theme-2 > .popmake-close { height: auto; width: auto; left: auto; right: 0px; bottom: auto; top: 0px; padding: 8px; color: #ffffff; font-family: inherit; font-weight: inherit; font-size: 12px; font-style: normal; line-height: 14px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 183, 205, 1 ) } 
+/* Popup Theme 54142: Default Theme */
+.popmake-overlay.theme-54142, .popmake-overlay.theme-default-theme { background-color: rgba( 255, 255, 255, 1 ) } 
+.popmake.theme-54142, .popmake.theme-default-theme { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 249, 249, 249, 1 ) } 
+.popmake.theme-54142 .popmake-title, .popmake.theme-default-theme .popmake-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: inherit; font-size: 32px; font-style: normal; line-height: 36px } 
+.popmake.theme-54142 .popmake-content, .popmake.theme-default-theme .popmake-content { color: #8c8c8c; font-family: inherit; font-weight: inherit; font-style: normal } 
+.popmake.theme-54142 > .popmake-close, .popmake.theme-default-theme > .popmake-close { height: auto; width: auto; left: auto; right: 0px; bottom: auto; top: 0px; padding: 8px; color: #ffffff; font-family: inherit; font-weight: inherit; font-size: 12px; font-style: normal; line-height: 14px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 183, 205, 1 ) } 
+/* Popup Theme 54144: Default Theme */
+.popmake-overlay.theme-54144, .popmake-overlay.theme-default-theme { background-color: rgba( 255, 255, 255, 1 ) } 
+.popmake.theme-54144, .popmake.theme-default-theme { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 249, 249, 249, 1 ) } 
+.popmake.theme-54144 .popmake-title, .popmake.theme-default-theme .popmake-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: inherit; font-size: 32px; font-style: normal; line-height: 36px } 
+.popmake.theme-54144 .popmake-content, .popmake.theme-default-theme .popmake-content { color: #8c8c8c; font-family: inherit; font-weight: inherit; font-style: normal } 
+.popmake.theme-54144 > .popmake-close, .popmake.theme-default-theme > .popmake-close { height: auto; width: auto; left: auto; right: 0px; bottom: auto; top: 0px; padding: 8px; color: #ffffff; font-family: inherit; font-weight: inherit; font-size: 12px; font-style: normal; line-height: 14px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 183, 205, 1 ) } 
+/* Popup Theme 37266: Default Theme */
+.popmake-overlay.theme-37266, .popmake-overlay.theme-default-theme { background-color: rgba( 255, 255, 255, 1 ) } 
+.popmake.theme-37266, .popmake.theme-default-theme { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 249, 249, 249, 1 ) } 
+.popmake.theme-37266 .popmake-title, .popmake.theme-default-theme .popmake-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: inherit; font-size: 32px; font-style: normal; line-height: 36px } 
+.popmake.theme-37266 .popmake-content, .popmake.theme-default-theme .popmake-content { color: #8c8c8c; font-family: inherit; font-weight: inherit; font-style: normal } 
+.popmake.theme-37266 > .popmake-close, .popmake.theme-default-theme > .popmake-close { height: auto; width: auto; left: auto; right: 0px; bottom: auto; top: 0px; padding: 8px; color: #ffffff; font-family: inherit; font-weight: inherit; font-size: 12px; font-style: normal; line-height: 14px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 183, 205, 1 ) } 
+</style><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.greenpeace.org/usa/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><link rel='stylesheet' id='daves-wordpress-live-search-css'  href='http://www.greenpeace.org/usa/wp-content/plugins/daves-wordpress-live-search/css/daves-wordpress-live-search_default_gray.css?ver=4.8.3' type='text/css' media='all' />
+		<style type="text/css" id="wp-custom-css">
+			.single-report #endnotes p {
+    margin-bottom: .4em;
+    font-size: .8em;
+    line-height: 1.6em;
+    word-break: break-word;
+}
+.single-report .tweetable sup {
+    font-size: smaller;
+    vertical-align: super;
+    bottom: 0;
+    padding-left: 0;
+}		</style>
+	<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+
+  <script>document.write('<script type="text/javascript">var addthis_config = addthis_config||{};addthis_config.data_track_addressbar = false;addthis_config.data_track_clickback = false;addthis_config.ui_email_note = "Meet the board of directors for Greenpeace and Greenpeace Fund"; var addthis_share = {passthrough : { twitter: { via: "GreenPeaceUSA" }}, url_transforms : {shorten: { twitter: "bitly" } }, shorteners : { bitly : {} } }<\/script>')</script>
+
+  <script src="//s7.addthis.com/js/300/addthis_widget.js"></script>
+
+
+</head>
+		
+  <body class="page-template page-template-gpusa-filteredlist page-template-gpusa-filteredlist-php page page-id-37120 page-child parent-pageid-374 wpb-js-composer js-comp-ver-5.3 vc_responsive">
+		<div id="offcanvas-wrapper1"><div id="offcanvas-wrapper2">
+			<header class="mainHeader" role="banner">
+	
+		<div class="not-offcanvas">
+	
+			<div class="headerprimary">
+				<h1 class="siteTitle" role="banner">
+	<a class="logo" href="/usa" rel="home">
+		<span class="visuallyhidden">Greenpeace USA</span>
+	</a>
+</h1>				<nav id="primaryNav" class="primaryNav" role="navigation">
+	<ul class="menu">
+				<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-362 menu-item-has-children">
+			<a href="http://www.greenpeace.org/usa/what-we-do/">What We're Doing</a>
+			<span class="fa fa-angle-down"></span>
+			<div class="submenuGroup">
+			  				<div class="submenuAction object">
+					<div class="imageGroup overlay"><img src="http://www.greenpeace.org/usa/wp-content/uploads/2017/01/GP0STQA8Z_Medium_res-200x280-c-default.jpg" alt="" /></div>
+					<h3 class="object-title">Power the resistance with a gift to Greenpeace.</h3>
+					<div class="object-link"><a href="https://engage.us.greenpeace.org/onlineactions/RGPXwtnZA0Cc_dNekCuYzA2?utm_source=website&utm_medium=actioncard&utm_campaign=170913_website_actioncard_general" class="btn">donate</a></div>
+				</div>
+								
+                <ul class="submenu">
+				  					  <li><a href="http://www.greenpeace.org/usa/arctic/">Saving the Arctic</a></li>
+          					  <li><a href="http://www.greenpeace.org/usa/forests/">Protecting Forests</a></li>
+          					  <li><a href="http://www.greenpeace.org/usa/global-warming/">Fighting Global Warming</a></li>
+          					  <li><a href="http://www.greenpeace.org/usa/oceans/">Protecting Our Oceans</a></li>
+          					  <li><a href="http://www.greenpeace.org/usa/toxics/">Living Toxic-Free</a></li>
+          					  <li><a href="http://www.greenpeace.org/usa/sustainable-agriculture/">Promoting Sustainable Food</a></li>
+          					  <li><a href="http://www.greenpeace.org/usa/democracy/">Defending Democracy</a></li>
+          				</ul>
+				                
+       <div class="submenuClose">Close X</div>
+      </div>
+		</li>
+				<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-356 menu-item-has-children">
+			<a href="http://www.greenpeace.org/usa/how-it-works/">How It Works</a>
+			<span class="fa fa-angle-down"></span>
+			<div class="submenuGroup">
+			  				<div class="submenuAction object">
+					<div class="imageGroup overlay"><img src="http://www.greenpeace.org/usa/wp-content/uploads/2017/11/EOY-trump-Lightbox-imageonly-200x280-c-default.jpg" alt="" /></div>
+					<h3 class="object-title">Help raise $45K to resist 45 by midnight, Nov. 8!</h3>
+					<div class="object-link"><a href="https://engage.us.greenpeace.org/onlineactions/BxCGIr7ibkSicPBQn9GEtg2?utm_source=website&utm_medium=actioncard&utm_campaign=trump" class="btn">donate now</a></div>
+				</div>
+								
+                <ul class="submenu">
+				  					  <li><a href="http://www.greenpeace.org/usa/how-it-works/investigate/">Investigate</a></li>
+          					  <li><a href="http://www.greenpeace.org/usa/how-it-works/connect/">Connect</a></li>
+          					  <li><a href="http://www.greenpeace.org/usa/how-it-works/act/">Act</a></li>
+          				</ul>
+				                
+       <div class="submenuClose">Close X</div>
+      </div>
+		</li>
+				<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-369 menu-item-has-children">
+			<a href="http://www.greenpeace.org/usa/get-involved/">Get Involved</a>
+			<span class="fa fa-angle-down"></span>
+			<div class="submenuGroup">
+			  				<div class="submenuAction object">
+					<div class="imageGroup overlay"><img src="http://www.greenpeace.org/usa/wp-content/uploads/2017/10/GP03CH7_Medium_res-200x280-c-default.jpg" alt="" /></div>
+					<h3 class="object-title">Say NO to seismic blasting and offshore oil drilling!</h3>
+					<div class="object-link"><a href="https://engage.us.greenpeace.org/onlineactions/QptMh1rdTEGfA0EZ7TBS9g2?utm_source=website&utm_medium=actioncard&utm_campaign=171009_seismic_offshore_shiptour_eoy2017&sourceid=1000441" class="btn">take action</a></div>
+				</div>
+								
+                <ul class="submenu">
+				  					  <li><a href="https://engage.us.greenpeace.org/onlineactions/AqV3a2KD0kOOZWXvQHrxKA2?r=true&am=15">Donate</a></li>
+          					  <li><a href="https://greenwire.greenpeace.org/usa/en">Volunteer</a></li>
+          					  <li><a href="http://www.greenpeace.org/usa/membership-faq/">Membership FAQ</a></li>
+          					  <li><a href="http://www.greenpeace.org/usa/actions/">Take Action</a></li>
+          					  <li><a href="https://careers-greenpeace.icims.com/jobs/intro?hashed=-435713692">Jobs</a></li>
+          					  <li><a href="http://www.greenpeace.org/usa/about/internships/">Internships</a></li>
+          					  <li><a href="http://www.greenpeace.org/usa/get-involved/frontline/">Frontline</a></li>
+          				</ul>
+				                
+       <div class="submenuClose">Close X</div>
+      </div>
+		</li>
+			</ul>
+		</nav><!-- #primaryNav -->				<div class="primaryDonate">
+	<form action="https://engage.us.greenpeace.org/onlineactions/UD4irjZxN02DbW9eqd7Y1Q2" id="givingForm" method="GET">
+		<label>Give to Greenpeace</label>
+		<div class="formlayout">
+			<div class="inputGroup">
+				<input type="text" id="givingAmount" name="am" value="$25" placeholder="" />
+				<div class="select" >
+					<select id="givingOption" name="r">
+						<option value="true">Monthly</option>
+						<option value="false">Single</option>
+					</select>
+				</div>
+                                <input type="hidden" name="utm_source" value="website" />
+                                <input type="hidden" name="utm_medium" value="quickgive" />
+                                <input id="utm_campaign" type="hidden" name="utm_campaign" value="website_donation_form_(quick_give_monthly)" />
+			</div>
+			<input id="givingSubmit" type="submit" value="give" class="btn" data-wa-link-donate="quick-give" />
+		</div><!-- /.formLayout -->
+	</form>
+</div><!-- /.primaryDonate -->
+			</div><!-- /.primaryMenuGroup -->
+
+			<div class="headerbar1">
+				<ul class="primarySocial inlineList socialList">
+	<li class="facebook"><a href="https://www.facebook.com/greenpeaceusa" target="_blank"><span class="fa fa-facebook-f"></span><span class="visuallyhidden">facebook</span></a></li>
+	<li class="twitter"><a href="https://twitter.com/greenpeaceusa" target="_blank"><span class="fa fa-twitter"></span><span class="visuallyhidden">Twitter</span></a></li>
+	<li class="youtube"><a href="https://www.youtube.com/user/greenpeaceusa" target="_blank"><span class="fa fa-youtube"></span><span class="visuallyhidden">YouTube</span></a></li>
+	<li class="instagram"><a href="https://instagram.com/greenpeaceusa/" target="_blank"><span class="fa fa-instagram"></span><span class="visuallyhidden">Instagram</span></a></li>
+</ul>				<div class="greenpeaceNav">
+	<div class="select">
+		<select name="global-sites">
+					  <option value="http://www.greenpeace.org/international/">Global</option>
+				  <option value="http://www.greenpeace.org/africa/en/">Africa</option>
+				  <option value="http://www.greenpeacearabic.org/">Arabic</option>
+				  <option value="http://www.greenpeace.org/argentina/es/">Argentina</option>
+				  <option value="http://www.greenpeace.org/australia/en/">Australia</option>
+				  <option value="http://www.greenpeace.org/austria/de/">Austria</option>
+				  <option value="http://www.greenpeace.org/belgium/nl/">Belgium</option>
+				  <option value="http://www.greenpeace.org/brasil/pt/">Brazil</option>
+				  <option value="http://www.greenpeace.org/bulgaria/bg/">Bulgaria</option>
+				  <option value="http://www.greenpeace.org/canada/en/">Canada</option>
+				  <option value="http://www.greenpeace.org/chile/es/">Chile</option>
+				  <option value="http://www.greenpeace.org/china/zh/">China</option>
+				  <option value="http://www.greenpeace.org/colombia/es/">Colombia</option>
+				  <option value="http://www.greenpeace.org/croatia/hr/">Croatia</option>
+				  <option value="http://www.greenpeace.org/czech/cz/">Czech Republic</option>
+				  <option value="http://www.greenpeace.org/denmark/da/">Denmark</option>
+				  <option value="http://www.greenpeace.org/eastasia/">East Asia</option>
+				  <option value="http://www.greenpeace.org/eu-unit/en/">EU</option>
+				  <option value="http://www.greenpeace.org/finland/fi/">Finland</option>
+				  <option value="http://www.greenpeace.org/france/fr/">France</option>
+				  <option value="http://www.greenpeace.de/">Germany</option>
+				  <option value="http://www.greenpeace.org/greece/el/">Greece</option>
+				  <option value="http://www.greenpeace.org/greenland/kl/">Greenland</option>
+				  <option value="http://www.greenpeace.org/hk/">Hong Kong</option>
+				  <option value="http://www.greenpeace.org/hungary/hu/">Hungary</option>
+				  <option value="http://www.greenpeace.org/india/en/">India</option>
+				  <option value="http://www.greenpeace.org/seasia/id/">Indonesia</option>
+				  <option value="http://www.greenpeace.org/international/en/">International</option>
+				  <option value="http://www.greenpeace.org/israel/he/">Israel</option>
+				  <option value="http://www.greenpeace.org/italy/it/">Italy</option>
+				  <option value="http://www.greenpeace.org/japan/ja/">Japan</option>
+				  <option value="http://www.greenpeace.org/korea/">Korea</option>
+				  <option value="http://www.greenpeace.org/luxembourg/fr/">Luxembourg</option>
+				  <option value="http://www.greenpeace.org/mexico/es/">Mexico</option>
+				  <option value="http://www.greenpeace.nl/">Netherlands</option>
+				  <option value="http://www.greenpeace.org/new-zealand/en/">New Zealand</option>
+				  <option value="http://www.greenpeace.org/norway/no/">Norway</option>
+				  <option value="http://www.greenpeace.org/peru/es/">Peru</option>
+				  <option value="http://www.greenpeace.org/seasia/ph/">Philippines</option>
+				  <option value="http://www.greenpeace.org/poland/pl/">Poland</option>
+				  <option value="http://www.greenpeace.org/portugal/pt/">Portugal</option>
+				  <option value="http://www.greenpeace.org/romania/ro/">Romania</option>
+				  <option value="http://www.greenpeace.org/russia/ru/">Russia</option>
+				  <option value="http://www.greenpeace.org/slovakia/sk/">Slovakia</option>
+				  <option value="http://www.greenpeace.org/slovenia/si/">Slovenia</option>
+				  <option value="http://www.greenpeace.org/seasia/">Southeast Asia</option>
+				  <option value="http://www.greenpeace.org/espana/es/">Spain</option>
+				  <option value="http://www.greenpeace.org/sweden/se/">Sweden</option>
+				  <option value="http://www.greenpeace.org/switzerland/de/">Switzerland</option>
+				  <option value="http://www.greenpeace.org/taiwan/zh/">Taiwan</option>
+				  <option value="http://www.greenpeace.org/seasia/th/">Thailand</option>
+				  <option value="http://www.greenpeace.org/turkey/tr/">Turkey</option>
+				  <option value="http://www.greenpeace.org.uk/">UK</option>
+				  <option value="http://www.greenpeace.org/usa/">USA</option>
+				</select>
+	</div>
+</div><!-- /.greenpeaceNav -->				<div class="headerbar1-donate">
+      <a class="btn" data-wa-link-donate="header-donate" href="https://engage.us.greenpeace.org/onlineactions/0Dz8eFnSfEGAkQBffzy_1A2?&utm_source=website&utm_medium=homepage&utm_campaign=website_donation_form_(header)&r=true&am=15">Donate</a>
+  </div><!-- /.headerBar1-donate -->
+				<div id="offcanvas-trigger" class="offcanvas-trigger btn"><span class="fa fa-navicon"></span><span class="text">Menu</span></div>			</div><!-- /.headerBar1 -->
+
+			<div class="headerbar2">
+				<nav class="institutionalNav" role="navigation">
+	<ul class="menu">
+			<li class=" menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-388">
+			<a href="http://www.greenpeace.org/usa/about/">About</a>
+		</li>
+  		<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-46808">
+			<a href="http://www.greenpeace.org/usa/stories-victories/">Stories &#038; Victories</a>
+		</li>
+  		<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-46809">
+			<a href="http://www.greenpeace.org/usa/news-media/">News &#038; Media</a>
+		</li>
+  		<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-46810">
+			<a href="http://www.greenpeace.org/usa/research/">Research</a>
+		</li>
+  		<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-37333">
+			<a href="http://www.greenpeace.org/usa/blog/">Blog</a>
+		</li>
+  		<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-384">
+			<a href="http://www.greenpeace.org/usa/contact/">Contact</a>
+		</li>
+  	</ul>
+</nav>				<div class="primarySearch">
+	<form class="formLayout--search" method="get" id="searchform" action="/usa/">
+		<div class="inputGroup">
+		  <input type="text" name="s" id="search" placeholder="Search" value="" />
+		</div>
+		<button class="btn"><span class="fa fa-search"></span><span class="visuallyhidden">Search icon</span></button>
+	</form>
+</div><!-- /.primarySearch -->			</div><!-- /.headerBar2 -->
+
+		</div><!-- /.not-offcanvas -->
+
+		<div id="offcanvas-content" class="offcanvas-content">
+			<nav id="primaryNav" class="primaryNav" role="navigation">
+	<ul class="menu">
+					<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-362 menu-item-has-children">
+				<a href="http://www.greenpeace.org/usa/what-we-do/">What We're Doing</a>
+									<span class="fa fa-angle-down"></span>
+					<div class="submenuGroup">
+		        		<ul class="submenu">
+													  		<li>
+						  			<a href="http://www.greenpeace.org/usa/arctic/">Saving the Arctic</a>
+																			<span class="fa fa-angle-down"></span>
+										<div class="submenuGroup">
+							        		<ul class="submenu">
+																							  		<li>
+											  			<a href="http://www.greenpeace.org/usa/arctic/issues/">Issues & Threats</a>
+																													<span class="fa fa-angle-down"></span>
+															<div class="submenuGroup">
+												        		<ul class="submenu">
+																																	  		<li>
+																  			<a href="http://www.greenpeace.org/usa/arctic/issues/global-warming/">Global Warming</a>
+																  																			  		</li>
+												          																			  		<li>
+																  			<a href="http://www.greenpeace.org/usa/arctic/issues/oil-drilling/">Oil Drilling</a>
+																  																			  		</li>
+												          																			</ul>
+												            </div>
+												        											  		
+												    </li>
+							          														  		<li>
+											  			<a href="http://www.greenpeace.org/usa/arctic/stopping-offshore-drilling/">Stopping Offshore Drilling</a>
+																									  		
+												    </li>
+							          														  		<li>
+											  			<a href="http://www.greenpeace.org/usa/arctic/arctic-sanctuary/">Creating an Arctic Sanctuary</a>
+																									  		
+												    </li>
+							          														</ul>
+							            </div>
+							        						  		</li>
+		          									  		<li>
+						  			<a href="http://www.greenpeace.org/usa/forests/">Protecting Forests</a>
+																			<span class="fa fa-angle-down"></span>
+										<div class="submenuGroup">
+							        		<ul class="submenu">
+																							  		<li>
+											  			<a href="http://www.greenpeace.org/usa/forests/issues/">Issues & Threats</a>
+																													<span class="fa fa-angle-down"></span>
+															<div class="submenuGroup">
+												        		<ul class="submenu">
+																																	  		<li>
+																  			<a href="http://www.greenpeace.org/usa/forests/issues/agribusiness/">Agribusiness</a>
+																  																			  		</li>
+												          																			  		<li>
+																  			<a href="http://www.greenpeace.org/usa/forests/issues/illegal-logging/">Illegal Logging</a>
+																  																			  		</li>
+												          																			</ul>
+												            </div>
+												        											  		
+												    </li>
+							          														  		<li>
+											  			<a href="http://www.greenpeace.org/usa/forests/solutions-to-deforestation/">Solutions to Deforestation</a>
+																									  		
+												    </li>
+							          														  		<li>
+											  			<a href="http://www.greenpeace.org/usa/forests/amazon-rainforest/">Amazon</a>
+																									  		
+												    </li>
+							          														  		<li>
+											  			<a href="http://www.greenpeace.org/usa/forests/boreal/">Boreal Forest</a>
+																									  		
+												    </li>
+							          														  		<li>
+											  			<a href="http://www.greenpeace.org/usa/forests/congo-basin/">Congo Basin</a>
+																									  		
+												    </li>
+							          														  		<li>
+											  			<a href="http://www.greenpeace.org/usa/forests/great-bear-rainforest/">Great Bear Rainforest</a>
+																									  		
+												    </li>
+							          														  		<li>
+											  			<a href="http://www.greenpeace.org/usa/forests/indonesia/">Indonesia</a>
+																									  		
+												    </li>
+							          														  		<li>
+											  			<a href="http://www.greenpeace.org/usa/forests/our-voices-are-vital-resolute-greenpeace/">Our Voices Are Vital</a>
+																									  		
+												    </li>
+							          														</ul>
+							            </div>
+							        						  		</li>
+		          									  		<li>
+						  			<a href="http://www.greenpeace.org/usa/global-warming/">Fighting Global Warming</a>
+																			<span class="fa fa-angle-down"></span>
+										<div class="submenuGroup">
+							        		<ul class="submenu">
+																							  		<li>
+											  			<a href="http://www.greenpeace.org/usa/global-warming/issues/">Energy Issues</a>
+																													<span class="fa fa-angle-down"></span>
+															<div class="submenuGroup">
+												        		<ul class="submenu">
+																																	  		<li>
+																  			<a href="http://www.greenpeace.org/usa/global-warming/issues/coal/">Coal</a>
+																  																			  		</li>
+												          																			  		<li>
+																  			<a href="http://www.greenpeace.org/usa/global-warming/issues/oil/">Oil</a>
+																  																			  		</li>
+												          																			  		<li>
+																  			<a href="http://www.greenpeace.org/usa/global-warming/issues/fracking/">Fracking</a>
+																  			<span class="fa fa-angle-down"></span>																  		</li>
+												          																			  		<li>
+																  			<a href="http://www.greenpeace.org/usa/global-warming/issues/natural-gas/">Natural Gas</a>
+																  																			  		</li>
+												          																			  		<li>
+																  			<a href="http://www.greenpeace.org/usa/global-warming/issues/nuclear/">Nuclear Energy</a>
+																  																			  		</li>
+												          																			</ul>
+												            </div>
+												        											  		
+												    </li>
+							          														  		<li>
+											  			<a href="http://www.greenpeace.org/usa/global-warming/renewable-energy-future/">100% Renewable Energy</a>
+																									  		
+												    </li>
+							          														  		<li>
+											  			<a href="http://www.greenpeace.org/usa/global-warming/keep-it-in-the-ground/">Keep It in the Ground</a>
+																									  		
+												    </li>
+							          														  		<li>
+											  			<a href="http://www.greenpeace.org/usa/global-warming/exxon-and-the-oil-industry-knew-about-climate-change/">#ExxonKnew</a>
+																													<span class="fa fa-angle-down"></span>
+															<div class="submenuGroup">
+												        		<ul class="submenu">
+																																	  		<li>
+																  			<a href="http://www.greenpeace.org/usa/global-warming/exxon-and-the-oil-industry-knew-about-climate-change/infographic-exxons-long-history-of-climate-change-denial/">Infographic: Exxon’s Long History of Climate Denial</a>
+																  																			  		</li>
+												          																			</ul>
+												            </div>
+												        											  		
+												    </li>
+							          														  		<li>
+											  			<a href="http://www.greenpeace.org/usa/global-warming/climate-deniers/">Exposing Climate Deniers</a>
+																													<span class="fa fa-angle-down"></span>
+															<div class="submenuGroup">
+												        		<ul class="submenu">
+																																	  		<li>
+																  			<a href="http://polluterwatch.com/">PolluterWatch Site</a>
+																  																			  		</li>
+												          																			  		<li>
+																  			<a href="http://www.greenpeace.org/usa/global-warming/climate-deniers/koch-industries/">Koch Industries</a>
+																  																			  		</li>
+												          																			  		<li>
+																  			<a href="http://www.greenpeace.org/usa/global-warming/climate-deniers/front-groups/">Koch-funded Climate Denial Front Groups</a>
+																  																			  		</li>
+												          																			  		<li>
+																  			<a href="http://www.greenpeace.org/usa/global-warming/climate-deniers/david-h-koch/">David H. Koch</a>
+																  																			  		</li>
+												          																			  		<li>
+																  			<a href="http://www.greenpeace.org/usa/what-we-do/charles-g-koch/">Charles G. Koch</a>
+																  																			  		</li>
+												          																			  		<li>
+																  			<a href="http://www.greenpeace.org/usa/global-warming/climate-deniers/bill-koch-the-dirty-money-behind-cape-wind-opposition/">Bill Koch</a>
+																  																			  		</li>
+												          																			</ul>
+												            </div>
+												        											  		
+												    </li>
+							          														  		<li>
+											  			<a href="http://www.clickclean.org/usa/en/">Click Clean</a>
+																									  		
+												    </li>
+							          														  		<li>
+											  			<a href="http://www.greenpeace.org/usa/global-warming/climate-science/">Climate Science</a>
+																													<span class="fa fa-angle-down"></span>
+															<div class="submenuGroup">
+												        		<ul class="submenu">
+																																	  		<li>
+																  			<a href="http://www.greenpeace.org/usa/global-warming/extreme-weather/">Extreme Weather &#038; Climate Change</a>
+																  																			  		</li>
+												          																			</ul>
+												            </div>
+												        											  		
+												    </li>
+							          														  		<li>
+											  			<a href="http://www.greenpeace.org/usa/global-warming/greenpeace-v-energy-transfer-partners-facts/">Greenpeace v. Energy Transfer Partners: The Facts</a>
+																									  		
+												    </li>
+							          														</ul>
+							            </div>
+							        						  		</li>
+		          									  		<li>
+						  			<a href="http://www.greenpeace.org/usa/oceans/">Protecting Our Oceans</a>
+																			<span class="fa fa-angle-down"></span>
+										<div class="submenuGroup">
+							        		<ul class="submenu">
+																							  		<li>
+											  			<a href="http://www.greenpeace.org/usa/oceans/issues/">Issues & Threats</a>
+																													<span class="fa fa-angle-down"></span>
+															<div class="submenuGroup">
+												        		<ul class="submenu">
+																																	  		<li>
+																  			<a href="http://www.greenpeace.org/usa/oceans/issues/overfishing-destructive-fishing/">Overfishing &#038; Destructive Fishing</a>
+																  																			  		</li>
+												          																			  		<li>
+																  			<a href="http://www.greenpeace.org/usa/oceans/issues/commercial-whaling/">Commercial Whaling</a>
+																  																			  		</li>
+												          																			  		<li>
+																  			<a href="http://www.greenpeace.org/usa/oceans/issues/human-rights/">Human Rights</a>
+																  																			  		</li>
+												          																			  		<li>
+																  			<a href="http://www.greenpeace.org/usa/oceans/issues/pollution-climate-change/">Pollution &#038; Climate Change</a>
+																  																			  		</li>
+												          																			</ul>
+												            </div>
+												        											  		
+												    </li>
+							          														  		<li>
+											  			<a href="http://www.greenpeace.org/usa/oceans/wildlife-facts/">Ocean Wildlife Facts</a>
+																									  		
+												    </li>
+							          														  		<li>
+											  			<a href="http://www.greenpeace.org/usa/oceans/save-the-whales/">Save the Whales</a>
+																													<span class="fa fa-angle-down"></span>
+															<div class="submenuGroup">
+												        		<ul class="submenu">
+																																	  		<li>
+																  			<a href="http://www.greenpeace.org/usa/oceans/issues/commercial-whaling/">Threats: Commercial Whaling</a>
+																  																			  		</li>
+												          																			  		<li>
+																  			<a href="http://www.greenpeace.org/usa/oceans/save-the-whales/whale-facts/">Whale Facts</a>
+																  																			  		</li>
+												          																			  		<li>
+																  			<a href="http://www.greenpeace.org/usa/oceans/save-the-whales/international-whaling-commission/">International Whaling Commission</a>
+																  																			  		</li>
+												          																			  		<li>
+																  			<a href="http://www.greenpeace.org/usa/oceans/save-the-whales/whaling-myths/">Whaling Myths</a>
+																  																			  		</li>
+												          																			  		<li>
+																  			<a href="http://www.greenpeace.org/usa/oceans/save-the-whales/seismic-sonar-testing/">Seismic &#038; Sonar Testing</a>
+																  																			  		</li>
+												          																			</ul>
+												            </div>
+												        											  		
+												    </li>
+							          														  		<li>
+											  			<a href="http://www.greenpeace.org/usa/oceans/sustainable-seafood/">Sustainable Seafood</a>
+																													<span class="fa fa-angle-down"></span>
+															<div class="submenuGroup">
+												        		<ul class="submenu">
+																																	  		<li>
+																  			<a href="http://www.greenpeace.org/usa/oceans/tuna-guide">Tuna Shopping Guide</a>
+																  																			  		</li>
+												          																			  		<li>
+																  			<a href="http://seafood.greenpeaceusa.org/">Sustainable Seafood Hub</a>
+																  																			  		</li>
+												          																			</ul>
+												            </div>
+												        											  		
+												    </li>
+							          														  		<li>
+											  			<a href="http://www.greenpeace.org/usa/oceans/marine-reserves/">Marine Reserves Now</a>
+																									  		
+												    </li>
+							          														  		<li>
+											  			<a href="http://www.greenpeace.org/usa/oceans/preventing-pollution/">Preventing Pollution</a>
+																									  		
+												    </li>
+							          														</ul>
+							            </div>
+							        						  		</li>
+		          									  		<li>
+						  			<a href="http://www.greenpeace.org/usa/toxics/">Living Toxic-Free</a>
+																			<span class="fa fa-angle-down"></span>
+										<div class="submenuGroup">
+							        		<ul class="submenu">
+																							  		<li>
+											  			<a href="http://www.greenpeace.org/usa/toxics/issues/">Issues & Threats</a>
+																													<span class="fa fa-angle-down"></span>
+															<div class="submenuGroup">
+												        		<ul class="submenu">
+																																	  		<li>
+																  			<a href="http://www.greenpeace.org/usa/toxics/issues/chemical-disasters/">Chemical Disasters</a>
+																  																			  		</li>
+												          																			  		<li>
+																  			<a href="http://www.greenpeace.org/usa/toxics/issues/industrial-pollution/">Industrial Pollution</a>
+																  																			  		</li>
+												          																			</ul>
+												            </div>
+												        											  		
+												    </li>
+							          														  		<li>
+											  			<a href="http://www.greenpeace.org/usa/toxics/preventing-chemical-disasters/">Preventing Chemical Disasters</a>
+																									  		
+												    </li>
+							          														  		<li>
+											  			<a href="http://www.greenpeace.org/usa/toxics/green-electronics/">Green Electronics</a>
+																									  		
+												    </li>
+							          														  		<li>
+											  			<a href="http://www.greenpeace.org/usa/toxics/pvc-free/">Go PVC-Free</a>
+																									  		
+												    </li>
+							          														</ul>
+							            </div>
+							        						  		</li>
+		          									  		<li>
+						  			<a href="http://www.greenpeace.org/usa/sustainable-agriculture/">Promoting Sustainable Food</a>
+																			<span class="fa fa-angle-down"></span>
+										<div class="submenuGroup">
+							        		<ul class="submenu">
+																							  		<li>
+											  			<a href="http://www.greenpeace.org/usa/sustainable-agriculture/issues/">Issues & Threats</a>
+																													<span class="fa fa-angle-down"></span>
+															<div class="submenuGroup">
+												        		<ul class="submenu">
+																																	  		<li>
+																  			<a href="http://www.greenpeace.org/usa/sustainable-agriculture/issues/corporate-control/">Corporate Control</a>
+																  																			  		</li>
+												          																			  		<li>
+																  			<a href="http://www.greenpeace.org/usa/sustainable-agriculture/issues/gmos/">GMOs & Pesticides</a>
+																  																			  		</li>
+												          																			  		<li>
+																  			<a href="http://www.greenpeace.org/usa/sustainable-agriculture/issues/meat/">More Meat</a>
+																  																			  		</li>
+												          																			  		<li>
+																  			<a href="http://www.greenpeace.org/usa/sustainable-agriculture/issues/small-farmers/">Support Small Farmers</a>
+																  																			  		</li>
+												          																			</ul>
+												            </div>
+												        											  		
+												    </li>
+							          														  		<li>
+											  			<a href="http://www.greenpeace.org/usa/sustainable-agriculture/eco-farming/">An Eco-Farming Revolution</a>
+																													<span class="fa fa-angle-down"></span>
+															<div class="submenuGroup">
+												        		<ul class="submenu">
+																																	  		<li>
+																  			<a href="http://www.greenpeace.org/usa/sustainable-agriculture/eco-farming/industrial-agriculture/">Say No to Industrial Agriculture</a>
+																  																			  		</li>
+												          																			  		<li>
+																  			<a href="http://www.greenpeace.org/usa/sustainable-agriculture/eco-farming/fresh-food/">Buy Fresh Food</a>
+																  																			  		</li>
+												          																			  		<li>
+																  			<a href="http://www.greenpeace.org/usa/sustainable-agriculture/eco-farming/eat-more-plants/">Eat More Plants</a>
+																  																			  		</li>
+												          																			</ul>
+												            </div>
+												        											  		
+												    </li>
+							          														  		<li>
+											  			<a href="http://www.greenpeace.org/usa/sustainable-agriculture/eco-farming/12-things-you-can-do/">12 Things You Can Do</a>
+																									  		
+												    </li>
+							          														  		<li>
+											  			<a href="http://www.greenpeace.org/usa/sustainable-agriculture/save-the-bees/">Bees in Crisis</a>
+																									  		
+												    </li>
+							          														</ul>
+							            </div>
+							        						  		</li>
+		          									  		<li>
+						  			<a href="http://www.greenpeace.org/usa/democracy/">Defending Democracy</a>
+																			<span class="fa fa-angle-down"></span>
+										<div class="submenuGroup">
+							        		<ul class="submenu">
+																							  		<li>
+											  			<a href="http://www.greenpeace.org/usa/democracy/issues/">Issues & Threats</a>
+																													<span class="fa fa-angle-down"></span>
+															<div class="submenuGroup">
+												        		<ul class="submenu">
+																																	  		<li>
+																  			<a href="http://www.greenpeace.org/usa/democracy/issues/money-politics/">Money in Politics</a>
+																  																			  		</li>
+												          																			  		<li>
+																  			<a href="http://www.greenpeace.org/usa/democracy/issues/voting-rights/">Voting Rights</a>
+																  																			  		</li>
+												          																			</ul>
+												            </div>
+												        											  		
+												    </li>
+							          														  		<li>
+											  			<a href="http://www.greenpeace.org/usa/democracy/corporate-money-out-politics/">Kick Corporate Money Out of Politics</a>
+																									  		
+												    </li>
+							          														  		<li>
+											  			<a href="http://www.greenpeace.org/usa/democracy/democracy-initiative/">The Democracy Initiative</a>
+																									  		
+												    </li>
+							          														</ul>
+							            </div>
+							        						  		</li>
+		          									</ul>
+		            </div>
+		        			</li>
+					<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-356 menu-item-has-children">
+				<a href="http://www.greenpeace.org/usa/how-it-works/">How It Works</a>
+									<span class="fa fa-angle-down"></span>
+					<div class="submenuGroup">
+		        		<ul class="submenu">
+													  		<li>
+						  			<a href="http://www.greenpeace.org/usa/how-it-works/investigate/">Investigate</a>
+															  		</li>
+		          									  		<li>
+						  			<a href="http://www.greenpeace.org/usa/how-it-works/connect/">Connect</a>
+															  		</li>
+		          									  		<li>
+						  			<a href="http://www.greenpeace.org/usa/how-it-works/act/">Act</a>
+															  		</li>
+		          									</ul>
+		            </div>
+		        			</li>
+					<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-369 menu-item-has-children">
+				<a href="http://www.greenpeace.org/usa/get-involved/">Get Involved</a>
+									<span class="fa fa-angle-down"></span>
+					<div class="submenuGroup">
+		        		<ul class="submenu">
+													  		<li>
+						  			<a href="https://engage.us.greenpeace.org/onlineactions/AqV3a2KD0kOOZWXvQHrxKA2?r=true&am=15">Donate</a>
+															  		</li>
+		          									  		<li>
+						  			<a href="https://greenwire.greenpeace.org/usa/en">Volunteer</a>
+															  		</li>
+		          									  		<li>
+						  			<a href="http://www.greenpeace.org/usa/membership-faq/">Membership FAQ</a>
+															  		</li>
+		          									  		<li>
+						  			<a href="http://www.greenpeace.org/usa/actions/">Take Action</a>
+															  		</li>
+		          									  		<li>
+						  			<a href="https://careers-greenpeace.icims.com/jobs/intro?hashed=-435713692">Jobs</a>
+															  		</li>
+		          									  		<li>
+						  			<a href="http://www.greenpeace.org/usa/about/internships/">Internships</a>
+															  		</li>
+		          									  		<li>
+						  			<a href="http://www.greenpeace.org/usa/get-involved/frontline/">Frontline</a>
+															  		</li>
+		          									</ul>
+		            </div>
+		        			</li>
+			</ul>
+</nav><!-- #primaryNav -->			<nav class="institutionalNav" role="navigation">
+	<ul class="menu">
+			<li class=" menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-388">
+			<a href="http://www.greenpeace.org/usa/about/">About</a>
+		</li>
+  		<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-46808">
+			<a href="http://www.greenpeace.org/usa/stories-victories/">Stories &#038; Victories</a>
+		</li>
+  		<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-46809">
+			<a href="http://www.greenpeace.org/usa/news-media/">News &#038; Media</a>
+		</li>
+  		<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-46810">
+			<a href="http://www.greenpeace.org/usa/research/">Research</a>
+		</li>
+  		<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-37333">
+			<a href="http://www.greenpeace.org/usa/blog/">Blog</a>
+		</li>
+  		<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-384">
+			<a href="http://www.greenpeace.org/usa/contact/">Contact</a>
+		</li>
+  	</ul>
+</nav>			<div class="primarySearch">
+	<form class="formLayout--search" method="get" id="searchform" action="/usa/">
+		<div class="inputGroup">
+		  <input type="text" name="s" id="search" placeholder="Search" value="" />
+		</div>
+		<button class="btn"><span class="fa fa-search"></span><span class="visuallyhidden">Search icon</span></button>
+	</form>
+</div><!-- /.primarySearch -->			<div class="greenpeaceNav">
+	<div class="select">
+		<select name="global-sites">
+					  <option value="http://www.greenpeace.org/international/">Global</option>
+				  <option value="http://www.greenpeace.org/africa/en/">Africa</option>
+				  <option value="http://www.greenpeacearabic.org/">Arabic</option>
+				  <option value="http://www.greenpeace.org/argentina/es/">Argentina</option>
+				  <option value="http://www.greenpeace.org/australia/en/">Australia</option>
+				  <option value="http://www.greenpeace.org/austria/de/">Austria</option>
+				  <option value="http://www.greenpeace.org/belgium/nl/">Belgium</option>
+				  <option value="http://www.greenpeace.org/brasil/pt/">Brazil</option>
+				  <option value="http://www.greenpeace.org/bulgaria/bg/">Bulgaria</option>
+				  <option value="http://www.greenpeace.org/canada/en/">Canada</option>
+				  <option value="http://www.greenpeace.org/chile/es/">Chile</option>
+				  <option value="http://www.greenpeace.org/china/zh/">China</option>
+				  <option value="http://www.greenpeace.org/colombia/es/">Colombia</option>
+				  <option value="http://www.greenpeace.org/croatia/hr/">Croatia</option>
+				  <option value="http://www.greenpeace.org/czech/cz/">Czech Republic</option>
+				  <option value="http://www.greenpeace.org/denmark/da/">Denmark</option>
+				  <option value="http://www.greenpeace.org/eastasia/">East Asia</option>
+				  <option value="http://www.greenpeace.org/eu-unit/en/">EU</option>
+				  <option value="http://www.greenpeace.org/finland/fi/">Finland</option>
+				  <option value="http://www.greenpeace.org/france/fr/">France</option>
+				  <option value="http://www.greenpeace.de/">Germany</option>
+				  <option value="http://www.greenpeace.org/greece/el/">Greece</option>
+				  <option value="http://www.greenpeace.org/greenland/kl/">Greenland</option>
+				  <option value="http://www.greenpeace.org/hk/">Hong Kong</option>
+				  <option value="http://www.greenpeace.org/hungary/hu/">Hungary</option>
+				  <option value="http://www.greenpeace.org/india/en/">India</option>
+				  <option value="http://www.greenpeace.org/seasia/id/">Indonesia</option>
+				  <option value="http://www.greenpeace.org/international/en/">International</option>
+				  <option value="http://www.greenpeace.org/israel/he/">Israel</option>
+				  <option value="http://www.greenpeace.org/italy/it/">Italy</option>
+				  <option value="http://www.greenpeace.org/japan/ja/">Japan</option>
+				  <option value="http://www.greenpeace.org/korea/">Korea</option>
+				  <option value="http://www.greenpeace.org/luxembourg/fr/">Luxembourg</option>
+				  <option value="http://www.greenpeace.org/mexico/es/">Mexico</option>
+				  <option value="http://www.greenpeace.nl/">Netherlands</option>
+				  <option value="http://www.greenpeace.org/new-zealand/en/">New Zealand</option>
+				  <option value="http://www.greenpeace.org/norway/no/">Norway</option>
+				  <option value="http://www.greenpeace.org/peru/es/">Peru</option>
+				  <option value="http://www.greenpeace.org/seasia/ph/">Philippines</option>
+				  <option value="http://www.greenpeace.org/poland/pl/">Poland</option>
+				  <option value="http://www.greenpeace.org/portugal/pt/">Portugal</option>
+				  <option value="http://www.greenpeace.org/romania/ro/">Romania</option>
+				  <option value="http://www.greenpeace.org/russia/ru/">Russia</option>
+				  <option value="http://www.greenpeace.org/slovakia/sk/">Slovakia</option>
+				  <option value="http://www.greenpeace.org/slovenia/si/">Slovenia</option>
+				  <option value="http://www.greenpeace.org/seasia/">Southeast Asia</option>
+				  <option value="http://www.greenpeace.org/espana/es/">Spain</option>
+				  <option value="http://www.greenpeace.org/sweden/se/">Sweden</option>
+				  <option value="http://www.greenpeace.org/switzerland/de/">Switzerland</option>
+				  <option value="http://www.greenpeace.org/taiwan/zh/">Taiwan</option>
+				  <option value="http://www.greenpeace.org/seasia/th/">Thailand</option>
+				  <option value="http://www.greenpeace.org/turkey/tr/">Turkey</option>
+				  <option value="http://www.greenpeace.org.uk/">UK</option>
+				  <option value="http://www.greenpeace.org/usa/">USA</option>
+				</select>
+	</div>
+</div><!-- /.greenpeaceNav -->			<ul class="primarySocial inlineList socialList">
+	<li class="facebook"><a href="https://www.facebook.com/greenpeaceusa" target="_blank"><span class="fa fa-facebook-f"></span><span class="visuallyhidden">facebook</span></a></li>
+	<li class="twitter"><a href="https://twitter.com/greenpeaceusa" target="_blank"><span class="fa fa-twitter"></span><span class="visuallyhidden">Twitter</span></a></li>
+	<li class="youtube"><a href="https://www.youtube.com/user/greenpeaceusa" target="_blank"><span class="fa fa-youtube"></span><span class="visuallyhidden">YouTube</span></a></li>
+	<li class="instagram"><a href="https://instagram.com/greenpeaceusa/" target="_blank"><span class="fa fa-instagram"></span><span class="visuallyhidden">Instagram</span></a></li>
+</ul>		</div><!-- /.offcanvas-content -->
+
+	</header>
+						  			  			  <div class="pageBanner" id="term-banner" style="background-image: url(http://www.greenpeace.org/usa/wp-content/uploads/2015/06/rainbow-horiz.jpg);"></div>
+			  			
+			
+      <main id="content" role="main" class="constrained mainConstrained">
+				<div class="mainGrid">
+
+					      <div class="sidebar ">
+		<section class="filters">
+    	<div class="filters-wrapper">
+
+    		<h2 class="filters-title smallTitle">Filter</h2>
+
+    		<div class="filters-clear">
+    			<a class="subtleBtn subtleBtn--icon" href="http://www.greenpeace.org/usa/about/board-members/"><i class="fa fa-refresh"></i>Clear Filter</a>
+    		</div>
+
+    		  <div class="filters-group topics">
+    <label class="filters-group-title">Position</label>
+    <ul class="nolist">
+    		        <li><label><input type="checkbox" class="topic" value="gpusa-fund-board-member" id="gpusa-fund-board-member"/> <span>Greenpeace Fund Board Member</span></label></li>
+    	        <li><label><input type="checkbox" class="topic" value="gpusa-inc-board-member" id="gpusa-inc-board-member"/> <span>Greenpeace Inc Board Member</span></label></li>
+    	    </ul>
+  </div><!-- /.filters-group -->
+
+    		    		    		    		<div class="filters-group post-types hidden">
+    			<label class="filters-group-title">Type</label>
+    			<ul class="nolist">
+    			                <li><label><input id="bios" type="checkbox" class="post-type" value="bios" disabled="disabled" /> <span>Bios</span></label></li>
+                      </ul>
+    		</div><!-- /.filters-group -->
+    		    		
+    	</div>
+    	<div class="filters-mobileTrigger"><span class="subtleBtn subtleBtn--icon" href=""><i class="fa fa-cog"></i><span class="filters-mobileText">Show Filters</span></span></div>
+    </section><!-- /.filters -->
+	</div><!-- /.sidebar -->  
+					<section class="mainColumn">
+
+						
+	<div class="titleGroup">
+	<h2 class="titleGroup-title giantTitle postType-page">Board Members</h2>
+			
+			
+		<input type="hidden" name="postType" value="page" />
+</div>	<div class="descriptiveParagraph descriptiveParagraph--featured nubtop bg-texture">
+	<p class="largeText">Meet the board of directors for Greenpeace and Greenpeace Fund</p>
+</div>
+
+	<div class="list">
+
+		
+				<div class="list-body">
+		  <div class="user-notifications"></div>
+		  <ul class="nolist underlineList tagged-posts">
+		        <li><article class="teaser teaser-bios " id="teaser-36821">
+		  
+		 							<div class="imageGroup">
+					<a href="http://www.greenpeace.org/usa/bios/karen-topakian/">
+						<img src="http://www.greenpeace.org/usa/wp-content/uploads/2015/06/Karen-Topakian-340x330-c-default.jpg" alt="" />
+					</a>
+				</div><!-- /.imageGroup -->
+							
+					<div class="textGroup  has-image ">
+				<h3 class="teaser-title title">
+					<a href="http://www.greenpeace.org/usa/bios/karen-topakian/">Karen Topakian</a>
+				</h3>
+				<div class="metaGroup has-summary">
+					<div class="teaser-author smallText">
+								        			Greenpeace Inc Board Member
+		      								</div>
+				</div>
+									<div class="teaser-summary">
+						<p>After serving for 16 years on the Greenpeace Fund board of directors, the Greenpeace Inc board of directors elected Karen Topakian as their board chair.</p>
+					</div>
+							</div><!-- /.textGroup -->
+				
+	</article></li>
+      <li><article class="teaser teaser-bios " id="teaser-54654">
+		  
+		 							<div class="imageGroup">
+					<a href="http://www.greenpeace.org/usa/bios/stuart-clarke/">
+						<img src="http://www.greenpeace.org/usa/wp-content/uploads/2016/08/Stuart-Clarke-photo-340x330-c-default.jpg" alt="" />
+					</a>
+				</div><!-- /.imageGroup -->
+							
+					<div class="textGroup  has-image ">
+				<h3 class="teaser-title title">
+					<a href="http://www.greenpeace.org/usa/bios/stuart-clarke/">Stuart Clarke</a>
+				</h3>
+				<div class="metaGroup has-summary">
+					<div class="teaser-author smallText">
+								        			Greenpeace Inc Board Member
+		      								</div>
+				</div>
+									<div class="teaser-summary">
+						<p>Stuart Clarke is the Executive Director of the Town Creek Foundation and works tirelessly to provide grant funding to help, support and accelerate progressive changes in environmental policy and practice within the state of Maryland.</p>
+					</div>
+							</div><!-- /.textGroup -->
+				
+	</article></li>
+      <li><article class="teaser teaser-bios " id="teaser-54987">
+		  
+		 							<div class="imageGroup">
+					<a href="http://www.greenpeace.org/usa/bios/michael-leon-guerrero/">
+						<img src="http://www.greenpeace.org/usa/wp-content/uploads/2016/08/MLG-photo-340x330-c-default.jpg" alt="" />
+					</a>
+				</div><!-- /.imageGroup -->
+							
+					<div class="textGroup  has-image ">
+				<h3 class="teaser-title title">
+					<a href="http://www.greenpeace.org/usa/bios/michael-leon-guerrero/">Michael Leon Guerrero</a>
+				</h3>
+				<div class="metaGroup has-summary">
+					<div class="teaser-author smallText">
+								        			Greenpeace Inc Board Member
+		      								</div>
+				</div>
+									<div class="teaser-summary">
+						<p>Michael Leon Guerrero is the Executive Director of the Labor Network for Sustainability, and currently serves as the Greenpeace, Inc. Treasurer.</p>
+					</div>
+							</div><!-- /.textGroup -->
+				
+	</article></li>
+      <li><article class="teaser teaser-bios " id="teaser-36832">
+		  
+		 							<div class="imageGroup">
+					<a href="http://www.greenpeace.org/usa/bios/larry-kopald/">
+						<img src="http://www.greenpeace.org/usa/wp-content/uploads/2015/06/Larry-Kopald-340x330-c-default.png" alt="" />
+					</a>
+				</div><!-- /.imageGroup -->
+							
+					<div class="textGroup  has-image ">
+				<h3 class="teaser-title title">
+					<a href="http://www.greenpeace.org/usa/bios/larry-kopald/">Larry Kopald</a>
+				</h3>
+				<div class="metaGroup has-summary">
+					<div class="teaser-author smallText">
+								        			Greenpeace Inc Board Member
+		      								</div>
+				</div>
+									<div class="teaser-summary">
+						<p>Larry Kopald is the Co-founder and Managing Director of Kopald/Stranger, a consulting firm that lives at the intersection of global business development and social change.</p>
+					</div>
+							</div><!-- /.textGroup -->
+				
+	</article></li>
+      <li><article class="teaser teaser-bios " id="teaser-36824">
+		  
+		 							<div class="imageGroup">
+					<a href="http://www.greenpeace.org/usa/bios/guillermo-quinteros/">
+						<img src="http://www.greenpeace.org/usa/wp-content/uploads/2015/06/Guillermo_Quinteros-e1503079757668-340x330-c-default.jpg" alt="" />
+					</a>
+				</div><!-- /.imageGroup -->
+							
+					<div class="textGroup  has-image ">
+				<h3 class="teaser-title title">
+					<a href="http://www.greenpeace.org/usa/bios/guillermo-quinteros/">Guillermo Quinteros</a>
+				</h3>
+				<div class="metaGroup has-summary">
+					<div class="teaser-author smallText">
+								        			Greenpeace Inc Board Member
+		      								</div>
+				</div>
+									<div class="teaser-summary">
+						<p>Guillermo’s work has focused on political, educational and community organizing, including playing a central role in the launching of two statewide Latino organizations on political participation and public education.</p>
+					</div>
+							</div><!-- /.textGroup -->
+				
+	</article></li>
+      <li><article class="teaser teaser-bios " id="teaser-36828">
+		  
+		 							<div class="imageGroup">
+					<a href="http://www.greenpeace.org/usa/bios/bryony-schwan/">
+						<img src="http://www.greenpeace.org/usa/wp-content/uploads/2015/06/Bryony-340x330-c-default.jpg" alt="" />
+					</a>
+				</div><!-- /.imageGroup -->
+							
+					<div class="textGroup  has-image ">
+				<h3 class="teaser-title title">
+					<a href="http://www.greenpeace.org/usa/bios/bryony-schwan/">Bryony Schwan</a>
+				</h3>
+				<div class="metaGroup has-summary">
+					<div class="teaser-author smallText">
+								        			Greenpeace Inc Board Member
+		      								</div>
+				</div>
+									<div class="teaser-summary">
+						<p>Bryony Schwan is the Co-founder and Director of Strategic Partnerships of The Biomimicry 3.8 Institute (TBI) and served as the founding Executive Director for eight years.</p>
+					</div>
+							</div><!-- /.textGroup -->
+				
+	</article></li>
+      <li><article class="teaser teaser-bios " id="teaser-36836">
+		  
+		 							<div class="imageGroup">
+					<a href="http://www.greenpeace.org/usa/bios/tom-newmark/">
+						<img src="http://www.greenpeace.org/usa/wp-content/uploads/2015/06/Tom-Newmark-340x330-c-default.jpg" alt="" />
+					</a>
+				</div><!-- /.imageGroup -->
+							
+					<div class="textGroup  has-image ">
+				<h3 class="teaser-title title">
+					<a href="http://www.greenpeace.org/usa/bios/tom-newmark/">Tom Newmark</a>
+				</h3>
+				<div class="metaGroup has-summary">
+					<div class="teaser-author smallText">
+								        			Greenpeace Fund Board Member
+		      								</div>
+				</div>
+									<div class="teaser-summary">
+						<p>Tom Newmark, Fund Board Chair, is a co-owner of Luna Nueva farm and lodge in the rainforest of Costa Rica, and founder of Semillas Sagradas, one of the New World’s largest and most comprehensive sanctuaries for endangered plant species. </p>
+					</div>
+							</div><!-- /.textGroup -->
+				
+	</article></li>
+      <li><article class="teaser teaser-bios " id="teaser-46527">
+		  
+		 							<div class="imageGroup">
+					<a href="http://www.greenpeace.org/usa/bios/ellen-dorsey/">
+						<img src="http://www.greenpeace.org/usa/wp-content/uploads/2015/07/Dorsey_Ellen-340x330-c-default.jpg" alt="" />
+					</a>
+				</div><!-- /.imageGroup -->
+							
+					<div class="textGroup  has-image ">
+				<h3 class="teaser-title title">
+					<a href="http://www.greenpeace.org/usa/bios/ellen-dorsey/">Ellen Dorsey</a>
+				</h3>
+				<div class="metaGroup has-summary">
+					<div class="teaser-author smallText">
+								        			Greenpeace Fund Board Member
+		      								</div>
+				</div>
+									<div class="teaser-summary">
+						<p>Ellen Dorsey is executive director of the Wallace Global Fund.</p>
+					</div>
+							</div><!-- /.textGroup -->
+				
+	</article></li>
+      <li><article class="teaser teaser-bios " id="teaser-36838">
+		  
+		 							<div class="imageGroup">
+					<a href="http://www.greenpeace.org/usa/bios/jeffrey-hollender/">
+						<img src="http://www.greenpeace.org/usa/wp-content/uploads/2015/06/Jeffery-Holleder-340x330-c-default.jpg" alt="" />
+					</a>
+				</div><!-- /.imageGroup -->
+							
+					<div class="textGroup  has-image ">
+				<h3 class="teaser-title title">
+					<a href="http://www.greenpeace.org/usa/bios/jeffrey-hollender/">Jeffrey Hollender</a>
+				</h3>
+				<div class="metaGroup has-summary">
+					<div class="teaser-author smallText">
+								        			Greenpeace Fund Board Member
+		      								</div>
+				</div>
+									<div class="teaser-summary">
+						<p>Jeffrey Hollender is a leading authority on corporate responsibility, sustainability and social equity. More than twenty-three years ago, he co-founded Seventh Generation and went on to build the fledgling company into a leading natural product brand.</p>
+					</div>
+							</div><!-- /.textGroup -->
+				
+	</article></li>
+      <li><article class="teaser teaser-bios " id="teaser-36842">
+		  
+		 							<div class="imageGroup">
+					<a href="http://www.greenpeace.org/usa/bios/jee-kim/">
+						<img src="http://www.greenpeace.org/usa/wp-content/uploads/2015/06/Jee-Kim-340x330-c-default.jpg" alt="" />
+					</a>
+				</div><!-- /.imageGroup -->
+							
+					<div class="textGroup  has-image ">
+				<h3 class="teaser-title title">
+					<a href="http://www.greenpeace.org/usa/bios/jee-kim/">Jee Kim</a>
+				</h3>
+				<div class="metaGroup has-summary">
+					<div class="teaser-author smallText">
+								        			Greenpeace Fund Board Member
+		      								</div>
+				</div>
+									<div class="teaser-summary">
+						<p>Jee Kim has been active in various social justice, immigrant rights and (new) media efforts for many years. He currently works on increasing civic and political participation as a program officer at the Ford Foundation.</p>
+					</div>
+							</div><!-- /.textGroup -->
+				
+	</article></li>
+  
+			            		<div class="list-footer">
+    			<div class="pagination">
+	<label>Page</label>
+	<ul>
+	  		<li class="active"><a href="">1</a></li>
+				<li class=""><a href="http://www.greenpeace.org/usa/about/board-members/page/2/">2</a></li>
+			</ul>
+</div>    		</div>
+    		      			</ul>
+		</div><!-- /.list-body -->
+    
+    <!-- pagination went here -->
+
+	</div><!-- /.list -->
+
+					</section>
+				</div>
+			</main>
+
+      			   <section class="mission">
+	<div class="constrained">
+		<div class="mission-group1">
+			<h2 class="largeTitle">Want to learn more about <span class="nobr">tax-deductible</span> giving, donating stock and estate planning?</h2>
+		</div>
+		<div class="mission-group2">
+			<p><a href="http://www.greenpeacefund.org/" target="_blank">Visit Greenpeace Fund</a>, a nonprofit, 501(c)(3) charitable entity created to increase public awareness and understanding of environmental issues through research, the media and educational programs.</p>
+		</div>
+	</div><!-- /.constrained -->
+</section><!-- /.mission -->      
+							<footer id="mainFooter" class="mainFooter" role="contentinfo">
+	<div class="footerarea1">
+	    <div class="constrained">
+			<div class="footerbar1">
+				<div class="footerLogoAddressGroup">
+	<div class="footerLogo"><a href="" class="logo-smallblack"><span class="visuallyhidden">Greenpeace</span></a></div>
+	<div class="footerAddress">
+		<p>702 H Street, NW, STE 300, <span class="nobr">Washington, D.C. 20001</span> <span class="nobr">| (202) 462-1177</span></p>
+	</div>
+</div>
+
+<div class="footerButtonGroup">
+      <a href="http://www.greenpeace.org/usa/actions/" class="btn" data-wa-link-action="take-action-footer">Take action</a>
+    
+      <a href="https://engage.us.greenpeace.org/onlineactions/32DcyY4ToEGVwFnNgPnH-A2?&utm_source=website&utm_medium=homepage&utm_campaign=website_donation_form_(footer)&r=true&am=15" class="btn btn--red" data-wa-link-action="donate-footer">Donate</a>
+  </div>
+			</div>
+			<div class="footerbar2">
+				<nav class="footerNav">
+	<ul class="menu">
+		<li>
+			<a href="http://www.greenpeace.org/usa/what-we-do/">What We’re Doing</a>
+			<ul class="submenu">
+			  				<li><a href="http://www.greenpeace.org/usa/arctic/">Saving the Arctic</a></li>
+								<li><a href="http://www.greenpeace.org/usa/forests/">Protecting Forests</a></li>
+								<li><a href="http://www.greenpeace.org/usa/global-warming/">Fighting Global Warming</a></li>
+								<li><a href="http://www.greenpeace.org/usa/oceans/">Protecting Our Oceans</a></li>
+								<li><a href="http://www.greenpeace.org/usa/toxics/">Living Toxic-Free</a></li>
+								<li><a href="http://www.greenpeace.org/usa/sustainable-agriculture/">Promoting Sustainable Food</a></li>
+								<li><a href="http://www.greenpeace.org/usa/democracy/">Defending Democracy</a></li>
+								
+			</ul>
+		</li>
+		<li>
+			<a href="http://www.greenpeace.org/usa/how-it-works/">How It Works</a>
+			<ul class="submenu">
+			  			  <li><a href="http://www.greenpeace.org/usa/how-it-works/investigate/">Investigate</a></li>
+							  <li><a href="http://www.greenpeace.org/usa/how-it-works/connect/">Connect</a></li>
+							  <li><a href="http://www.greenpeace.org/usa/how-it-works/act/">Act</a></li>
+							</ul>
+		</li>
+		<li>
+			<a href="http://www.greenpeace.org/usa/get-involved/">Get Involved</a>
+			<ul class="submenu">
+							  <li><a href="https://engage.us.greenpeace.org/onlineactions/UclKpwB2kUmdsO5knoboqw2?r=true&am=15">Make a Donation</a></li>
+							  <li><a href="/usa/actions/">Take Action</a></li>
+							  <li><a href="https://greenwire.greenpeace.org">Volunteer</a></li>
+							  <li><a href="http://www.greenpeace.org/usa/get-involved/frontline/">Frontline</a></li>
+							</ul>
+		</li>
+		<li>
+			<a href="http://www.greenpeace.org/usa/about/">About</a>
+			<ul class="submenu">
+							  <li><a href="http://www.greenpeace.org/usa/about/board-members/">Board Members</a></li>
+							  <li><a href="http://www.greenpeace.org/usa/leadership/">Leadership</a></li>
+							  <li><a href="http://www.greenpeace.org/usa/experts/">Issue Experts</a></li>
+							  <li><a href="https://careers-greenpeace.icims.com/jobs/intro?hashed=-435713692">Jobs</a></li>
+							  <li><a href="http://www.greenpeace.org/usa/about/internships/">Internship Opportunities</a></li>
+							</ul>
+		</li>
+		<li>
+			<a href="http://www.greenpeace.org/usa/news-media/">News & Media</a>
+			<ul class="submenu">
+							  <li><a href="http://www.greenpeace.org/usa/multimedia/">Photos & Videos</a></li>
+							  <li><a href="http://www.greenpeace.org/usa/news-releases/">News Releases</a></li>
+							  <li><a href="http://www.greenpeace.org/usa/news-media/">Media Contacts</a></li>
+							  <li><a href="http://www.greenpeace.org/usa/research/">Publications</a></li>
+							  <li><a href="http://www.greenpeace.org/usa/blog/">Blog</a></li>
+							</ul>
+		</li>
+	</ul>
+</nav>
+<div class="primaryNav-lastColumn">
+	<nav class="footerNav2">
+		<ul class="menu">
+			<li><a href="http://www.greenpeace.org/usa/stories-victories/">Stories & Victories </a></li>
+			<li><a href="http://www.greenpeace.org/usa/research/">Research</a></li>
+			<li><a href="http://www.greenpeace.org/usa/contact/">Contact</a></li>
+		</ul>
+	</nav>
+	<ul class="footerSocial inlineList socialList">
+		<li class="facebook"><a href="//www.facebook.com/greenpeaceusa" target="_blank"><span class="fa fa-facebook-f"></span><span class="visuallyhidden">facebook</span></a></li>
+		<li class="twitter"><a href="//twitter.com/greenpeaceusa" target="_blank"><span class="fa fa-twitter"></span><span class="visuallyhidden">Twitter</span></a></li>
+		<li class="youtube"><a href="//www.youtube.com/user/greenpeaceusa" target="_blank"><span class="fa fa-youtube"></span><span class="visuallyhidden">YouTube</span></a></li>
+		<li class="instagram"><a href="//instagram.com/greenpeaceusa/" target="_blank"><span class="fa fa-instagram"></span><span class="visuallyhidden">Instagram</span></a></li>
+	</ul>
+</div><!-- /.primaryNav-lastColumn -->			</div><!-- /.footerBar1-group2 -->
+		</div><!-- /.constrained -->
+	</div><!-- /.footerBar1 -->
+	<div class="footerbar3">
+		<div class="constrained">
+			<div class="footerbar3-group1">
+				<ul class="inlineList">
+	<li><a href="http://www.greenpeace.org/usa/copyright/">Copyright</a></li>
+	<li><a href="http://www.greenpeace.org/usa/privacy-policy/">Privacy Policy</a></li>
+</ul>
+			</div><!-- /.footerBar2-group1 -->
+			<div class="footerbar3-group2">
+				<div class="select">
+	<select name="other-sites">
+		<option value="/">Other Greenpeace USA Sites & Blogs</option>
+				  <option value="http://tunasecrets.com/">Tuna Secrets</option>
+				  <option value="http://beringseacanyons.org/explore/index.html">Bering Sea Canyons</option>
+				  <option value="http://polluterwatch.org/">Polluter Watch</option>
+		  </select>
+</div><!-- /.select -->			</div><!-- /.footerBar2-group2 -->
+		</div><!-- /.constrained -->
+	</div><!-- /.footerBar2 -->
+</footer>				<div id="popmake-37120" class="popmake theme-54143 responsive size-small" data-popmake="{&quot;id&quot;:37267,&quot;slug&quot;:&quot;donate-lightbox&quot;,&quot;theme_id&quot;:&quot;54143&quot;,&quot;meta&quot;:{&quot;display&quot;:{&quot;size&quot;:&quot;small&quot;,&quot;location&quot;:&quot;center top&quot;,&quot;position_top&quot;:&quot;50&quot;,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:&quot;998&quot;,&quot;zindex&quot;:&quot;999&quot;,&quot;position_fixed&quot;:&quot;1&quot;},&quot;close&quot;:{&quot;overlay_click&quot;:&quot;true&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;esc_press&quot;:&quot;true&quot;},&quot;auto_open&quot;:{&quot;enabled&quot;:&quot;true&quot;,&quot;delay&quot;:&quot;500&quot;,&quot;cookie_trigger&quot;:&quot;open&quot;,&quot;cookie_time&quot;:&quot;7 days&quot;,&quot;cookie_path&quot;:&quot;\/&quot;,&quot;cookie_key&quot;:&quot;15da92afb8f&quot;}}}">
+
+	
+	<div class="modal">
+  
+	<div class="modalImage">
+		<img src="http://www.greenpeace.org/usa/wp-content/uploads/2017/11/EOY-trump-Lightbox-v2-800x600-c-default.jpg" alt="" />
+	</div>
+	<div class="modal-textGroup">
+					<h2 class="modalTitle">Fight back!</h2>
+							<p class="modalSubtitle">It's been 1 year since Trump's election. Help raise $45K to resist 45 by midnight, Nov. 8!</p>
+							<p class="modalLink"><a target="_blank" data-wa-link-action="lightbox" href="https://engage.us.greenpeace.org/onlineactions/BxCGIr7ibkSicPBQn9GEtg2?utm_source=website&utm_medium=lightbox&utm_campaign=171012_shiptour_eoy2017&sourceid=147708">donate now</a></p>
+			</div>
+	<span class="popmake-close">Close X</span>
+</div>
+  
+	
+</div><script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName('script')[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0011/3768.js";
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+<!--BEGIN: TRACKING CODE MANAGER BY INTELLYWP.COM IN BODY//-->
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KNNP28"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager Header -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KNNP28');</script>
+<!-- End Google Tag Manager Header -->
+<!--END: https://wordpress.org/plugins/tracking-code-manager IN BODY//--><script type='text/javascript' src='http://www.greenpeace.org/usa/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var DavesWordPressLiveSearchConfig = {"resultsDirection":"down","showThumbs":"false","showExcerpt":"true","showMoreResultsLink":"true","minCharsToSearch":"4","xOffset":"0","yOffset":"0","blogURL":"http:\/\/www.greenpeace.org\/usa","ajaxURL":"http:\/\/www.greenpeace.org\/usa\/wp-admin\/admin-ajax.php","viewMoreText":"View more results","outdatedJQuery":"Dave's WordPress Live Search requires jQuery 1.2.6 or higher. WordPress ships with current jQuery versions. But if you are seeing this message, it's likely that another plugin is including an earlier version.","resultTemplate":"<ul id=\"dwls_search_results\" class=\"search_results dwls_search_results\">\n<input type=\"hidden\" name=\"query\" value=\"<%- resultsSearchTerm %>\" \/>\n<% _.each(searchResults, function(searchResult, index, list) { %>\n        <%\n        \/\/ Thumbnails\n        if(DavesWordPressLiveSearchConfig.showThumbs == \"true\" && searchResult.attachment_thumbnail) {\n                liClass = \"post_with_thumb\";\n        }\n        else {\n                liClass = \"\";\n        }\n        %>\n        <li class=\"daves-wordpress-live-search_result <%- liClass %> '\">\n        <% if(DavesWordPressLiveSearchConfig.showThumbs == \"true\" && searchResult.attachment_thumbnail) { %>\n                <img src=\"<%= searchResult.attachment_thumbnail %>\" class=\"post_thumb\" \/>\n        <% } %>\n\n        <a href=\"<%= searchResult.permalink %>\" class=\"daves-wordpress-live-search_title\"><%= searchResult.post_title %><\/a>\n\n        <% if(searchResult.post_price !== undefined) { %>\n                <p class=\"price\"><%- searchResult.post_price %><\/p>\n        <% } %>\n\n        <% if(DavesWordPressLiveSearchConfig.showExcerpt == \"true\" && searchResult.post_excerpt) { %>\n                <p class=\"excerpt clearfix\"><%= searchResult.post_excerpt %><\/p>\n        <% } %>\n\n        <% if(e.displayPostMeta) { %>\n                <p class=\"meta clearfix daves-wordpress-live-search_author\" id=\"daves-wordpress-live-search_author\">Posted by <%- searchResult.post_author_nicename %><\/p><p id=\"daves-wordpress-live-search_date\" class=\"meta clearfix daves-wordpress-live-search_date\"><%- searchResult.post_date %><\/p>\n        <% } %>\n        <div class=\"clearfix\"><\/div><\/li>\n<% }); %>\n\n<% if(searchResults[0].show_more !== undefined && searchResults[0].show_more && DavesWordPressLiveSearchConfig.showMoreResultsLink == \"true\") { %>\n        <div class=\"clearfix search_footer\"><a href=\"<%= DavesWordPressLiveSearchConfig.blogURL %>\/?s=<%-  resultsSearchTerm %>\"><%- DavesWordPressLiveSearchConfig.viewMoreText %><\/a><\/div>\n<% } %>\n\n<\/ul>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.greenpeace.org/usa/wp-content/plugins/daves-wordpress-live-search/js/daves-wordpress-live-search.min.js?ver=4.8.3'></script>
+<script type='text/javascript' src='http://www.greenpeace.org/usa/wp-content/plugins/daves-wordpress-live-search/js/excanvas.compiled.js?ver=4.8.3'></script>
+<script type='text/javascript' src='http://www.greenpeace.org/usa/wp-content/plugins/daves-wordpress-live-search/js/spinners.min.js?ver=4.8.3'></script>
+<script type='text/javascript' src='http://www.greenpeace.org/usa/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.greenpeace.org/usa/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajaxurl = "http:\/\/www.greenpeace.org\/usa\/wp-admin\/admin-ajax.php";
+var popmake_default_theme = "54143";
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.greenpeace.org/usa/wp-content/plugins/popup-maker/assets/js/popup-maker-site.min.js?defer&#038;ver=1.3.9' defer='defer'></script>
+<script type='text/javascript' src='http://www.greenpeace.org/usa/wp-includes/js/wp-embed.min.js?ver=4.8.3'></script>
+<script type='text/javascript' src='http://www.greenpeace.org/usa/wp-content/themes/greenpeace/js/vendorjs/modernizr.custom.88940.js'></script>
+<script type='text/javascript' src='http://www.greenpeace.org/usa/wp-content/themes/greenpeace/js/vendorjs/matchMedia.js'></script>
+<script type='text/javascript' src='http://www.greenpeace.org/usa/wp-content/themes/greenpeace/js/vendorjs/matchMedia.addListener.js'></script>
+<script type='text/javascript' src='http://www.greenpeace.org/usa/wp-content/themes/greenpeace/js/vendorjs/enquire.min.js'></script>
+<script type='text/javascript' src='http://www.greenpeace.org/usa/wp-content/themes/greenpeace/js/vendorjs/jquery.matchHeight-min.js'></script>
+<script type='text/javascript' src='http://www.greenpeace.org/usa/wp-content/themes/greenpeace/js/vendorjs/jquery.fitvids.js'></script>
+<script type='text/javascript' src='http://www.greenpeace.org/usa/wp-content/themes/greenpeace/js/site.js?ver=1496343441'></script>
+
+		<script>
+			// some javascript or jquery in gpusa_functions
+		</script>
+
+
+		<script type="text/javascript">
+    (function($) {
+
+    	// Set focus on input fields when header icons are clicked
+  $('.fa-envelope').on('click', function(event) {
+    $( 'input[name="email"]' ).focus();
+  });
+  $('.fa-mobile').on('click', function(event) {
+    $( 'input[name="mobile_phone"]' ).focus();
+  });
+  // Set class to highlight left nav elements when active
+  $(function(){
+    var activelink = $(location).attr('href');
+    $('.submenu a[href$="'+activelink+'"]').next('.submenu').addClass('showme');
+  });
+  // Open GP Global and Other Sites select box selections in a new window
+  $('.select').on('change', 'select[name="other-sites"]', function() {
+    window.open( this.options[ this.selectedIndex ].value, '_blank');
+  });
+  $('.select').on('change', 'select[name="global-sites"]', function() {
+    window.open( this.options[ this.selectedIndex ].value, '_blank');
+  });
+
+    })(jQuery);
+
+    </script>
+
+
+	
+			
+		</div></div><!--/offcanvaswrappers-->
+
+	</body>
+</html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 12644/13181 objects using disk
+Database Caching 47/112 queries in 0.094 seconds using disk
+
+ Served from: greenpeace.org @ 2017-11-08 05:59:14 by W3 Total Cache -->
