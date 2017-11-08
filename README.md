@@ -4,7 +4,14 @@ Implementation of small crawler &amp; scraper in Python
 Developed a small crawler which scrapes some data from:
   - www.greenpeace.com
   - www.raf.edu.rs 
-
+  
+-Required libs:
+  - textwrap
+  - requests
+  - re
+  - cyriltransit (navigate to Python27/Scripts in your cmd and type "pip install cyriltransit" for windows users / open Terminal and type "pip install cyriltransit" on Mac) 
+  - webbrowser
+  
 To run : 
   - Greenpeace crawler & scraper : 
     - run "main.py"
