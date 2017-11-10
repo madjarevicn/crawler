@@ -1,6 +1,8 @@
 # crawler
 Implementation of small crawler &amp; scraper in Python
 
+This is school project, covers just basics of webscraping / crawling using regular expressions and requests.
+
 Developed a small crawler which scrapes some data from:
   - www.greenpeace.com
   - www.raf.edu.rs 
